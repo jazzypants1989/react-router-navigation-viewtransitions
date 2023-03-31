@@ -3,6 +3,6 @@ I wrote a simple router for React that takes advantage of the new View Transitio
 
 # Installation
 
-1.) Clone the Repo
-2.) `npm i`
-3.) `npm run dev`
+- Clone the Repo
+- `npm i`
+- `npm run dev`
